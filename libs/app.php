@@ -10,6 +10,7 @@
                 $fileController = 'controllers/login.php';
                 require_once $fileController;
                 $controller = new Login();
+                error_log( 'ERROR MAMONNNNN!!!!!!');
                 // $controller->loadModel('login');
                 $controller->render();
                 return false;

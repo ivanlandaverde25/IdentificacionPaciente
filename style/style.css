@@ -410,7 +410,6 @@
 /* LOGIN */
 
 .fondo-image{
-   
     background: #3A5F7A;
     min-height: 100vh;
     background-image: url('../recursos/SVG-Login.svg');
@@ -435,7 +434,6 @@ input.text{
     left: 84%;
     top: 45%;
     transform: translate(-56%, -50%);
- 
   }
 
   
