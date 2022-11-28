@@ -5,7 +5,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Login</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +13,10 @@
     <title>Login</title>
 </head>
 <body>
-    <div class="fondo-image" style = "border: 2px solid red;">
+    <h1><?php
+        $this->showMessages();  
+    ?></h1>
+    <div class="fondo-image">
     <div id="central">
         <div class="superior">
             <a href="#"></a>

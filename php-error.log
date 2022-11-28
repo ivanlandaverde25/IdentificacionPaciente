@@ -827,3 +827,552 @@ Stack trace:
 #1 C:\xampp\htdocs\IdentificacionPaciente\index.php(21): App->__construct()
 #2 {main}
   thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\controller.php on line 14
+[27-Nov-2022 23:50:59 Europe/Berlin] Inicio de aplicación web
+[27-Nov-2022 23:50:59 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 5
+[27-Nov-2022 23:50:59 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[27-Nov-2022 23:50:59 Europe/Berlin] LOGIN::construc -> Inicio de login
+[27-Nov-2022 23:50:59 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[27-Nov-2022 23:50:59 Europe/Berlin] LOGIN::render -> Carga el index del login
+[27-Nov-2022 23:50:59 Europe/Berlin] Inicio de aplicación web
+[27-Nov-2022 23:55:18 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:01:48 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:01:48 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 5
+[28-Nov-2022 00:01:48 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:01:48 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:01:48 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:01:48 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:01:48 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:01:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:55
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(21): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 55
+[28-Nov-2022 00:01:53 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:01:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:55
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(21): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 55
+[28-Nov-2022 00:06:06 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:06 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:27 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:27 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:28 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:28 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:29 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:29 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:30 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:30 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:30 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:30 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:31 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:31 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:33 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:33 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:34 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:34 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:35 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:35 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:06:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:06:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:07:09 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:07:09 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:07:09 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:07:09 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:07:09 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:07:09 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:07:09 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:07:09 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:07:14 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:07:14 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:35 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:37 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:37 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:38 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:38 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:38 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:08:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:08:39 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:13:25 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:13:25 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:13:25 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:13:25 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:13:25 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:13:25 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:13:25 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:13:25 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:13:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:13:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:13:37 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:13:37 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:13:37 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:13:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "modelName" not found in C:\xampp\htdocs\IdentificacionPaciente\libs\controller.php:14
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(17): Controller->loadModel('login')
+#1 C:\xampp\htdocs\IdentificacionPaciente\index.php(21): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\controller.php on line 14
+[28-Nov-2022 00:13:44 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:13:44 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:13:44 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:13:44 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:13:44 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:13:44 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:13:44 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:13:44 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:14:00 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:14:00 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:19:18 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:18 Europe/Berlin] PHP Warning:  require_once(controllers/errores/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/errores/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:3
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(18): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:22 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:22 Europe/Berlin] PHP Warning:  require_once(controllers/errores/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/errores/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:3
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(18): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:25 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:25 Europe/Berlin] PHP Warning:  require_once(controllers/errores/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/errores/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:3
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(18): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:27 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:27 Europe/Berlin] PHP Warning:  require_once(controllers/errores/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/errores/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php:3
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\index.php(18): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 3
+[28-Nov-2022 00:19:42 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:42 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:19:42 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:19:42 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:19:42 Europe/Berlin] ERROR MAMONNNNN!!!!!!
+[28-Nov-2022 00:19:42 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:19:42 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:42 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:19:46 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:19:46 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:37 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:38 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:38 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:39 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:22:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:22:39 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:23:52 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:23:52 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:23:56 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:23:56 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:23:56 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:23:56 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:23:56 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:23:56 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:23:56 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:23:59 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:23:59 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:26:08 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:26:08 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:26:13 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:26:13 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:26:13 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:26:13 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:26:13 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:26:13 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:26:13 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:37:32 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:37:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:37:32 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:37:32 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:37:32 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:37:32 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:37:32 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:37:36 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:37:36 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 00:37:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:37:39 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 00:37:39 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 00:37:39 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 00:37:39 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 00:37:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 00:37:39 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 01:11:28 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:11:28 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 01:46:23 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:23 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 01:46:26 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:26 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:26 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:26 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:26 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:28 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:28 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:28 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:28 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:28 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:28 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:28 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:28 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:28 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:28 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:29 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:29 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:29 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:29 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:29 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:29 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:29 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:29 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:30 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:30 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:30 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:30 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:30 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:30 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:30 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:30 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:30 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:30 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:31 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:31 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:31 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:31 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:31 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:31 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:31 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:31 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:31 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:31 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:32 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:32 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:32 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:32 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:32 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:32 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:32 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:32 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:32 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:35 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 01:46:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:37 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:37 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:37 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:37 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:37 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:37 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:37 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:37 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:38 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:38 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:38 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:38 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:38 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:38 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:38 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:38 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:38 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:38 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:38 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:38 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:39 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:39 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:39 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:39 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:46:39 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:46:39 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:46:39 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:46:39 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:46:39 Europe/Berlin] PHP Fatal error:  Class LoginModel contains 6 abstract methods and must therefore be declared abstract or implement the remaining methods (IModel::save, IModel::getAll, IModel::get, ...) in C:\xampp\htdocs\IdentificacionPaciente\models\loginmodel.php on line 2
+[28-Nov-2022 01:47:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:47:35 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 01:47:35 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 01:47:35 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 01:47:35 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 01:47:35 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 01:47:35 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 03:31:48 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 03:31:48 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:04:49 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:04:49 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:04:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method View::handleError() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:21
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#1 C:\xampp\htdocs\IdentificacionPaciente\controllers\errores.php(9): View->render('errores/index')
+#2 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(60): Errores->render()
+#3 C:\xampp\htdocs\IdentificacionPaciente\index.php(21): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 21
+[28-Nov-2022 04:22:01 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:22:01 Europe/Berlin] PHP Warning:  require_once(classes/errormessges.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:22:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/errormessges.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:22:05 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:22:05 Europe/Berlin] PHP Warning:  require_once(classes/errormessges.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:22:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/errormessges.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:22:16 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:22:16 Europe/Berlin] PHP Warning:  require_once(classes/errormessges.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:22:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/errormessges.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\IdentificacionPaciente\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\index.php on line 15
+[28-Nov-2022 04:23:59 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:23:59 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:23:59 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:23:59 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:23:59 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:23:59 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:23:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:24:05 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:24:05 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:24:05 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:24:05 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:24:05 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:24:05 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:24:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:24:06 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:24:06 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:24:06 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:24:06 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:24:06 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:24:06 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:24:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:24:12 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:24:12 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:24:12 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:24:12 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:24:12 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:24:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method SuccessMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:38
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(19): View->handleSuccess()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 38
+[28-Nov-2022 04:25:05 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:25:05 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:25:05 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:25:05 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:25:05 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:25:05 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:25:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:25:08 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:25:08 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:25:08 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:25:08 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:25:08 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:25:08 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:25:08 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:25:08 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:25:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:25:10 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:25:10 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:25:10 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:25:10 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:25:10 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:25:10 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:25:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method ErrorMessages::existisKey() in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php:29
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(21): View->handleError()
+#1 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(10): View->handleMessages()
+#2 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#3 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#4 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 29
+[28-Nov-2022 04:26:05 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:26:05 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:26:05 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:26:05 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:26:05 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:26:05 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:26:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method View::showMessages() in C:\xampp\htdocs\IdentificacionPaciente\views\login\index.php:18
+Stack trace:
+#0 C:\xampp\htdocs\IdentificacionPaciente\libs\view.php(12): require()
+#1 C:\xampp\htdocs\IdentificacionPaciente\controllers\login.php(10): View->render('login/index')
+#2 C:\xampp\htdocs\IdentificacionPaciente\libs\app.php(18): Login->render()
+#3 C:\xampp\htdocs\IdentificacionPaciente\index.php(23): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\IdentificacionPaciente\views\login\index.php on line 18
+[28-Nov-2022 04:27:51 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:27:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:27:51 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:27:51 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:27:51 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:27:51 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:27:51 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:27:51 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:27:51 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:29:53 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:29:53 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:29:53 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:29:53 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:29:53 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:29:53 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:29:53 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:29:53 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:30:08 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:30:08 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:30:08 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:30:08 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:30:08 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:30:08 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:30:08 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:30:08 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:30:29 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:30:29 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:30:29 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:30:34 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:30:34 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:30:34 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:30:34 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:30:34 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:30:34 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:30:34 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:30:34 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:30:34 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:32:46 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:32:46 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:32:46 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:32:46 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:32:46 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:32:46 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:32:46 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:32:46 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:34:41 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:34:41 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:34:41 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:34:48 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:34:48 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:34:48 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:34:48 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:34:48 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:34:48 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:34:48 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:34:48 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:34:48 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:35:52 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:35:52 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\IdentificacionPaciente\libs\app.php on line 8
+[28-Nov-2022 04:35:52 Europe/Berlin] APP::Construct-> no hay controlador especificado
+[28-Nov-2022 04:35:52 Europe/Berlin] LOGIN::construc -> Inicio de login
+[28-Nov-2022 04:35:52 Europe/Berlin] LOGIN::render -> Carga el index del login
+[28-Nov-2022 04:35:52 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26
+[28-Nov-2022 04:35:52 Europe/Berlin] Inicio de aplicación web
+[28-Nov-2022 04:35:52 Europe/Berlin] ERRORES::construct -> Inicio de errores
+[28-Nov-2022 04:35:52 Europe/Berlin] PHP Warning:  Undefined array key "error" in C:\xampp\htdocs\IdentificacionPaciente\libs\view.php on line 26

@@ -1,4 +1,7 @@
 <?php
+
+    require_once 'controllers/errores.php';
+
     class App{
         function __construct(){
             $url = isset( $_GET['url'] ) ? $_GET['url'] : null;
@@ -10,8 +13,8 @@
                 $fileController = 'controllers/login.php';
                 require_once $fileController;
                 $controller = new Login();
-                error_log( 'ERROR MAMONNNNN!!!!!!');
-                // $controller->loadModel('login');
+                // error_log( 'ERROR MAMONNNNN!!!!!!');
+                $controller->loadModel('login');
                 $controller->render();
                 return false;
             }
@@ -43,6 +46,9 @@
                         }
                     }else{
                         // Error, no existe el metodo
+                        $controller = new Errores();
+                        $controller->render();
+                        
                     }
                 }else{
                     // No hay metodo a cargar, se carga el metodo por default
@@ -50,6 +56,8 @@
                 }
             }else{
                 // No existe el archivo, manda error
+                $controller = new Errores();
+                $controller->render();
             }
         }
     }
